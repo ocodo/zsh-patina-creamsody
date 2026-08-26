@@ -1,6 +1,6 @@
 # zsh-patina-creamsody
 
-a zsh-patina theme based on vim Creamsody
+a zsh-patina theme based on [Creamsody](https://github.com/emacsfodder/emacs-theme-creamsody)
 
 ![](zsh-patina-creamsody.png)
 
