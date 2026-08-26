@@ -1,0 +1,336 @@
+# ============================================================
+# Creamsody Dark Hard — zsh-patina
+# ============================================================
+
+# ------------------------------------------------------------
+# Comments
+# ------------------------------------------------------------
+
+"comment" = "#928374"
+"comment.line.number-sign.shell" = "#928374"
+
+# ------------------------------------------------------------
+# Strings
+# ------------------------------------------------------------
+
+"string" = "#86C9D3"
+"string.quoted.single.shell" = "#86C9D3"
+"string.quoted.single.ansi-c.shell" = "#86C9D3"
+"string.quoted.double.shell" = "#86C9D3"
+"string.quoted.double.locale.shell" = "#86C9D3"
+"string.unquoted.shell" = "#86C9D3"
+"string.unquoted.heredoc.shell" = "#86C9D3"
+
+"punctuation.definition.string" = "#7DBCC6"
+"punctuation.definition.string.begin.shell" = "#7DBCC6"
+"punctuation.definition.string.end.shell" = "#7DBCC6"
+
+"constant.character.escape" = "#8DD1CA"
+"constant.character.escape.shell" = "#8DD1CA"
+"constant.character.escape.backtick.shell" = "#8DD1CA"
+
+
+# ------------------------------------------------------------
+# Numbers
+# ------------------------------------------------------------
+
+"constant.numeric" = "#FDF4C1"
+"constant.numeric.integer.shell" = "#FDF4C1"
+"constant.numeric.integer.decimal.shell" = "#FDF4C1"
+"constant.numeric.integer.decimal.base.shell" = "#FDF4C1"
+"constant.numeric.integer.decimal.file-descriptor.shell" = "#FDF4C1"
+"constant.numeric.integer.decimal.job.shell" = "#FDF4C1"
+"constant.numeric.integer.generic-base.shell" = "#FDF4C1"
+"constant.numeric.integer.hexadecimal.shell" = "#FDF4C1"
+"constant.numeric.integer.octal.shell" = "#FDF4C1"
+
+"punctuation.definition.numeric.base.shell" = "#FDF4C1"
+"punctuation.definition.numeric.hexadecimal.shell" = "#FDF4C1"
+"punctuation.definition.numeric.octal.shell" = "#FDF4C1"
+
+
+# ------------------------------------------------------------
+# Commands / functions
+# ------------------------------------------------------------
+
+"entity.name.function" = "#67C6BD"
+"entity.name.function.shell" = "#67C6BD"
+"entity.name.function.alias.shell" = "#499CB0"
+"entity.name.function.coproc.shell" = "#67C6BD"
+
+"variable.function" = "#67C6BD"
+"variable.function.shell" = "#67C6BD"
+
+"meta.function" = "#67C6BD"
+"meta.function-call" = "#67C6BD"
+"meta.function-call.shell" = "#67C6BD"
+"meta.function-call.arguments.shell" = "#EBDBB2"
+"meta.function.coproc.shell" = "#67C6BD"
+
+
+# ------------------------------------------------------------
+# Builtins / precommands
+# ------------------------------------------------------------
+
+"keyword.builtin" = "#419BB0"
+"keyword.builtin.builtin.shell" = "#419BB0"
+"keyword.builtin.command.shell" = "#419BB0"
+"keyword.builtin.dash.shell" = "#419BB0"
+"keyword.builtin.exec.shell" = "#419BB0"
+"keyword.builtin.noglob.shell" = "#419BB0"
+
+"precommand.builtin.builtin.shell" = "#419BB0"
+"precommand.builtin.command.shell" = "#419BB0"
+"precommand.builtin.dash.shell" = "#419BB0"
+"precommand.builtin.exec.shell" = "#419BB0"
+"precommand.builtin.noglob.shell" = "#419BB0"
+
+"keyword.other.coproc.shell" = "#419BB0"
+
+
+# ------------------------------------------------------------
+# Control flow
+# ------------------------------------------------------------
+
+"keyword.control" = "#97D1CB"
+
+"keyword.control.if.begin.shell" = "#97D1CB"
+"keyword.control.if.then.shell" = "#97D1CB"
+"keyword.control.if.elif.shell" = "#97D1CB"
+"keyword.control.if.else.shell" = "#97D1CB"
+"keyword.control.if.end.shell" = "#97D1CB"
+
+"keyword.control.for.shell" = "#97D1CB"
+"keyword.control.foreach.shell" = "#97D1CB"
+"keyword.control.in.shell" = "#97D1CB"
+
+"keyword.control.while.shell" = "#97D1CB"
+"keyword.control.until.shell" = "#97D1CB"
+"keyword.control.repeat.shell" = "#97D1CB"
+
+"keyword.control.do.shell" = "#97D1CB"
+"keyword.control.done.shell" = "#97D1CB"
+
+"keyword.control.case.begin.shell" = "#97D1CB"
+"keyword.control.case.end.shell" = "#97D1CB"
+"keyword.control.case.in.shell" = "#97D1CB"
+"keyword.control.case.item.shell" = "#97D1CB"
+
+"keyword.control.select.shell" = "#97D1CB"
+
+"keyword.control.flow.break.shell" = "#83FEEF"
+"keyword.control.flow.continue.shell" = "#83FEEF"
+"keyword.control.flow.nocorrect.shell" = "#83FEEF"
+"keyword.control.flow.time.shell" = "#83FEEF"
+
+
+# ------------------------------------------------------------
+# Operators
+# ------------------------------------------------------------
+
+"keyword.operator" = "#77FEE9"
+
+"keyword.operator.arithmetic.shell" = "#77FEE9"
+"keyword.operator.assignment.shell" = "#77FEE9"
+"keyword.operator.assignment.option.shell" = "#77FEE9"
+"keyword.operator.assignment.redirection.shell" = "#77FEE9"
+"keyword.operator.assignment.redirection.process.shell" = "#77FEE9"
+
+"keyword.operator.bitwise.shell" = "#77FEE9"
+
+"keyword.operator.logical.shell" = "#77FEE9"
+"keyword.operator.logical.and.shell" = "#77FEE9"
+"keyword.operator.logical.or.shell" = "#77FEE9"
+"keyword.operator.logical.not.shell" = "#FB4933"
+"keyword.operator.logical.continue.shell" = "#77FEE9"
+"keyword.operator.logical.job.shell" = "#77FEE9"
+
+"keyword.operator.pipe.shell" = "#77FEE9"
+"keyword.operator.expansion.shell" = "#77FEE9"
+"keyword.operator.substitution.shell" = "#77FEE9"
+"keyword.operator.indirection.shell" = "#77FEE9"
+"keyword.operator.ternary.shell" = "#77FEE9"
+"keyword.operator.word.shell" = "#77FEE9"
+"keyword.operator.end-of-options.shell" = "#77FEE9"
+
+"keyword.operator.herestring.shell" = "#77FEE9"
+"keyword.operator.substring.begin.shell" = "#77FEE9"
+"keyword.operator.substring.end.shell" = "#77FEE9"
+"keyword.operator.regexp.quantifier.shell" = "#77FEE9"
+
+
+# ------------------------------------------------------------
+# Variables
+# ------------------------------------------------------------
+
+"variable" = "#499CB0"
+"variable.language" = "#A59FC0"
+"variable.language.shell" = "#A59FC0"
+"variable.language.array.shell" = "#A59FC0"
+"variable.language.job.shell" = "#A59FC0"
+"variable.language.tilde.shell" = "#A59FC0"
+
+"variable.other" = "#499CB0"
+"variable.other.readwrite.shell" = "#499CB0"
+"variable.other.readwrite.assignment.shell" = "#499CB0"
+
+"variable.parameter" = "#67C6BD"
+"variable.parameter.option.shell" = "#67C6BD"
+"variable.parameter.switch.shell" = "#67C6BD"
+
+"punctuation.definition.variable" = "#60B9B0"
+"punctuation.definition.variable.shell" = "#60B9B0"
+"punctuation.definition.variable.job.shell" = "#60B9B0"
+
+
+# ------------------------------------------------------------
+# Parameter / command / brace expansion
+# ------------------------------------------------------------
+
+"meta.group.expansion.parameter" = "#499CB0"
+"meta.group.expansion.parameter.begin.shell" = "#60B9B0"
+"meta.group.expansion.parameter.end.shell" = "#60B9B0"
+
+"meta.group.expansion.command.backticks.shell" = "#67C6BD"
+"meta.group.expansion.command.parens.shell" = "#67C6BD"
+
+"meta.group.expansion.brace" = "#97D1CB"
+"meta.group.expansion.brace.begin.shell" = "#84C4BD"
+"meta.group.expansion.brace.end.shell" = "#84C4BD"
+
+"meta.group.expansion.tilde" = "#A59FC0"
+"meta.group.expansion.history" = "#A59FC0"
+"meta.group.expansion.job" = "#A59FC0"
+"meta.group.expansion.arithmetic" = "#A59FC0"
+"meta.group.expansion.arithmetic.shell" = "#A59FC0"
+
+
+# ------------------------------------------------------------
+# Arithmetic / grouping
+# ------------------------------------------------------------
+
+"meta.group.arithmetic.shell" = "#A59FC0"
+"punctuation.section.arithmetic.begin.shell" = "#9A94B3"
+"punctuation.section.arithmetic.end.shell" = "#9A94B3"
+
+"meta.group.parens.shell" = "#67C6BD"
+"punctuation.section.parens.begin.shell" = "#60B9B0"
+"punctuation.section.parens.end.shell" = "#60B9B0"
+
+"punctuation.section.group.begin.shell" = "#60B9B0"
+"punctuation.section.group.end.shell" = "#60B9B0"
+
+"punctuation.section.brackets.begin.shell" = "#60B9B0"
+"punctuation.section.brackets.end.shell" = "#60B9B0"
+
+
+# ------------------------------------------------------------
+# Braces
+# ------------------------------------------------------------
+
+"punctuation.section.braces.begin.shell" = "#84C4BD"
+"punctuation.section.braces.end.shell" = "#84C4BD"
+
+"punctuation.definition.compound.braces.begin.shell" = "#84C4BD"
+"punctuation.definition.compound.braces.end.shell" = "#84C4BD"
+
+
+# ------------------------------------------------------------
+# Redirections / heredocs
+# ------------------------------------------------------------
+
+
+"keyword.control.heredoc-token.shell" = "#97D1CB"
+"punctuation.separator.continuation.line.shell" = "#928374"
+
+
+# ------------------------------------------------------------
+# Separators / punctuation
+# ------------------------------------------------------------
+
+"punctuation.separator.shell" = "#62574E"
+
+"punctuation.terminator.case.shell" = "#62574E"
+"punctuation.terminator.file-descriptor.shell" = "#62574E"
+
+"punctuation.separator.character-class.begin.shell" = "#60B9B0"
+"punctuation.separator.character-class.end.shell" = "#60B9B0"
+
+"punctuation.separator.collate.begin.shell" = "#60B9B0"
+"punctuation.separator.collate.end.shell" = "#60B9B0"
+
+"punctuation.separator.equivalence-class.begin.shell" = "#60B9B0"
+"punctuation.separator.equivalence-class.end.shell" = "#60B9B0"
+
+
+# ------------------------------------------------------------
+# Regex
+# ------------------------------------------------------------
+
+"meta.regexp.shell" = "#67C6BD"
+
+"keyword.control.regexp.set.begin.shell" = "#84C4BD"
+"keyword.control.regexp.set.end.shell" = "#84C4BD"
+
+
+# ------------------------------------------------------------
+# Invalid syntax
+# ------------------------------------------------------------
+
+"invalid.illegal" = "#FB4933"
+
+"invalid.illegal.extraneous-spaces-after-line-continuation.shell" = "#FB4933"
+"invalid.illegal.no-spaces-allowed-after-heredoc-token.shell" = "#FB4933"
+"invalid.illegal.not-a-hex-character.shell" = "#FB4933"
+"invalid.illegal.not-an-octal-character.shell" = "#FB4933"
+
+
+# ------------------------------------------------------------
+# Dynamic highlighting
+# ------------------------------------------------------------
+
+"dynamic.callable" = "#67C6BD"
+"dynamic.callable.missing" = "#FB4933"
+
+"dynamic.callable.alias" = "#499CB0"
+"dynamic.callable.builtin" = "#419BB0"
+"dynamic.callable.command" = "#67C6BD"
+"dynamic.callable.function" = "#67C6BD"
+
+"dynamic.path" = { underline = true }
+
+"dynamic.path.file.complete" = { underline = true }
+"dynamic.path.file.partial" = { underline = true }
+"dynamic.path.directory.complete" = { underline = true }
+"dynamic.path.directory.partial" = { underline = true }
+
+
+# ------------------------------------------------------------
+# Storage / function declarations
+# ------------------------------------------------------------
+
+"storage" = "#97D1CB"
+"storage.modifier.shell" = "#97D1CB"
+"storage.type.function.shell" = "#97D1CB"
+
+
+# ------------------------------------------------------------
+# Shell source
+# ------------------------------------------------------------
+
+"source.shell.bash" = "#499CB0"
+
+
+# ------------------------------------------------------------
+# Miscellaneous / structural syntax
+# ------------------------------------------------------------
+
+"meta.post-cmd.shell" = "#62574E"
+"meta.group.for.shell" = "#97D1CB"
+"meta.group.foreach.shell" = "#97D1CB"
+"meta.group.select.shell" = "#97D1CB"
+
+"keyword.control.end.shell" = "#97D1CB"
+
+"meta.group.expansion.history.shell" = "#A59FC0"
+
